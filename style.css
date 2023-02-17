@@ -14,9 +14,7 @@ body {
   background-attachment: fixed;
 }
 
-/* ------------------------------ */
 /* ---------- NAVBAR ------------ */
-/* ------------------------------ */
 
 .navbar {
   display: flex;
@@ -57,9 +55,7 @@ body {
   cursor: pointer;
 }
 
-/* ------------------------------ */
 /* ---------- HERO ------------ */
-/* ------------------------------ */
 
 .hero {
   max-width: 1154px;
@@ -74,7 +70,6 @@ body {
   font-weight: 400;
   font-size: 94px;
   line-height: 97px;
-  /* or 110% */
   color: #ffc233;
   padding: auto;
 }
